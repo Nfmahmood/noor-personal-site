@@ -42,10 +42,6 @@ export default function Page() {
     },
   ];
 
-  myProjects.map((project) => {
-    console.log(project.title.toUpperCase());
-  });
-
   return (
     <section>
       <h1 className="mb-8 text-xl font-semibold tracking-tighter">About</h1>
@@ -62,13 +58,14 @@ export default function Page() {
       </h2>
 
       <p className="mb-4 font-light">
-        {`Building dynamic, user-friendly web applications with clean, efficient code. Check out my projects below!`}
+        {`Building dynamic, user-friendly web applications with clean, efficient code. `}
+        <span className="font-bold">{`Check out my projects below!`}</span>
       </p>
 
       <div>
         <ul>
-          {myProjects.map((project) => (
-            <li className="mt-[0.5rem]">
+          {myProjects.map((project, index) => (
+            <li key={index} className="mt-[0.5rem]">
               <a
                 href={project.url}
                 className="text-neutral-900 dark:text-neutral-100 italic tracking-tight underline"
