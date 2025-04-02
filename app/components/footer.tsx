@@ -35,10 +35,10 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://www.linkedin.com/in/noor-fatima-6b2337149/"
+            href="https://www.linkedin.com/in/noorfm/"
           >
             <ArrowIcon />
-            <p className="ml-2 h-7">linked in</p>
+            <p className="ml-2 h-7">linkedIn</p>
           </a>
         </li>
       </ul>
