@@ -5,29 +5,30 @@ export default function Page() {
       url: "https://to-do-list-umber-eta-45.vercel.app/",
     },
     {
-      title: "Learn Javascript Essential",
-      url: "https://accordion-three-lake.vercel.app/",
+      title: "Travel Packing List",
+      url: "https://travel-list-livid-three.vercel.app/",
     },
     {
       title: "Tip Calculator",
       url: "https://tip-calculator-livid-gamma.vercel.app/",
     },
     {
+      title: "Split Bill",
+      url: "https://split-bill-flame.vercel.app/",
+    },
+    {
       title: "Flash Cards",
       url: "https://study-flashcards-two.vercel.app/",
     },
     {
-      title: "Split Bill",
-      url: "https://split-bill-flame.vercel.app/",
+      title: "Learn Javascript Essential",
+      url: "https://accordion-three-lake.vercel.app/",
     },
     {
       title: "Date Counter",
       url: "https://date-counter-pied.vercel.app/",
     },
-    {
-      title: "Travel Packing List",
-      url: "https://travel-list-livid-three.vercel.app/",
-    },
+
     {
       title: "Steps to Success",
       url: "https://steps-to-success.vercel.app/",
