@@ -61,6 +61,10 @@ export default function Page() {
         My Portfolio
       </h2>
 
+      <p className="mb-4 font-light">
+        {`Building dynamic, user-friendly web applications with clean, efficient code. Check out my projects below!`}
+      </p>
+
       <div>
         <ul>
           {myProjects.map((project) => (
