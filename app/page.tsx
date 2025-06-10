@@ -58,11 +58,6 @@ export default function Page() {
         Web development projects I’ve built
       </h2>
 
-      <p className="mb-4 font-light">
-        {`Building dynamic, user-friendly web applications with clean, efficient code. `}
-        <span className="font-bold">{`Check out my projects below!`}</span>
-      </p>
-
       <div>
         <ul>
           {myProjects.map((project, index) => (
