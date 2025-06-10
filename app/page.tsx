@@ -47,15 +47,15 @@ export default function Page() {
     <section>
       <h1 className="mb-8 text-xl font-semibold tracking-tighter">About</h1>
       <p className="mb-4 font-light">
-        {`For four years, I built a career in marketing in Pakistan, shaping brands and driving strategies. But when I migrated to the USA, I knew I had to start over—not just in a new country, but in a new field that truly excites me. Web development became my passion, my path forward, and my way to build a better future.`}{" "}
+        {`Detail-oriented and resourceful project manager with a background in marketing and recent training in software development. Proven success in cross-functional team leadership, communication and digital operations. Passionate about project planning, documentation and stakeholder engagement.`}{" "}
       </p>
       <p className="mb-4 font-light">
-        {`Starting from scratch hasn’t been easy, but I’ve embraced every challenge with determination, learning relentlessly and pushing myself to grow in order to build something meaningful. Now, as I take this next big step—landing my first job as a web developer—I bring not just technical skills, but resilience, adaptability, and a unique perspective shaped by my journey. I’m ready to contribute, learn, adapt and prove that bold decisions lead to incredible opportunities.
+        {`I realized that to truly understand a project from end to end, I needed a deeper insight into how development teams operate. That's why I took a year-long break to self-study web development and build web applications independently. This experience has given me a solid understanding of the development process, enabling me to better communicate with technical teams and coordinate projects more effectively.
 `}
       </p>
 
       <h2 className="mt-[3rem] mb-8 text-xl font-semibold tracking-tighter">
-        My Portfolio
+        Web development projects I’ve built
       </h2>
 
       <p className="mb-4 font-light">
