@@ -50,7 +50,7 @@ export default function Page() {
         {`Detail-oriented and resourceful project manager with a background in marketing and recent training in software development. Proven success in cross-functional team leadership, communication and digital operations. Passionate about project planning, documentation and stakeholder engagement.`}{" "}
       </p>
       <p className="mb-4 font-light">
-        {`I realized that to truly understand a project from end to end, I needed a deeper insight into how development teams operate. That's why I took a year-long break to self-study web development and build web applications independently. This experience has given me a solid understanding of the development process, enabling me to better communicate with technical teams and coordinate projects more effectively.
+        {`With the world moving toward digital transformation, I became curious about how modern technology works. I took time off to study web development and build real-world applications, which helped me better understand the development process and improved my ability to work with technical teams on digital projects.
 `}
       </p>
 
